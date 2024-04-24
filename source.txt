@@ -1,1 +1,7 @@
 Вопрос для семинара 2: почему origin/HEAD получился после слияния третьего (несвязанного ранее) репо?
+
+https://docs.google.com/presentation/d/1xO5O92QIyd5dKGzrlhf1G1fSyLR--I4J7UzIIZ_eUhw/edit#slide=id.g16e4d84b5e6_0_418
+
+QAlex68
+
+QAlex68
